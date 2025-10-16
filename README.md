@@ -5,7 +5,7 @@
 ![ezgif-6d14e76f2a62d7](https://github.com/user-attachments/assets/e0bc095e-1cbc-48a9-b70e-89eb39975434)
 
   
-<img width="400" src="https://s12.gifyu.com/images/b3bA3.gif" alt="Material Bread logo">
+<img width="400" src="https://github.com/user-attachments/assets/e0bc095e-1cbc-48a9-b70e-89eb39975434" alt="Material Bread logo">
 </p>
 В репозитории выложены все ассеты, которые используются в часах, а также сам файл .wfs для тех, кто захочит делать какие либо модификации.
 
